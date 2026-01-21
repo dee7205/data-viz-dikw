@@ -1,0 +1,252 @@
+key,company,num_female_eng,num_eng,percent_female_eng,last_updated,year,num_male_eng,company_size_group,days_since_baseline
+all,ALL,2979,15967,18.66,2016-03-15,2016,12988,Large,1134
+wellsfargo,Wells Fargo,1296,5407,23.97,2015-07-22,2015,4111,Large,897
+thoughtworks,ThoughtWorks,337,1425,23.65,2014-05-19,2014,1088,Large,468
+mozilla,Mozilla,43,500,8.6,2013-10-23,2013,457,Large,260
+athenahealth,athenahealth,75,473,15.86,2016-02-25,2016,398,Large,1115
+dropbox,Dropbox,42,384,10.94,2015-08-19,2015,342,Large,925
+pinterest,Pinterest,60,307,19.54,2015-12-07,2015,247,Large,1035
+airbnb,Airbnb,38,281,13.52,2015-12-07,2015,243,Large,1035
+qualcommaustin,Qualcomm,15,271,5.54,2013-10-24,2013,256,Large,261
+twpit,The Washington Post,31,217,14.29,2015-09-02,2015,186,Large,939
+yelp,Yelp,17,206,8.25,2014-01-13,2014,189,Large,342
+braintree,PayPal,11,163,6.75,2015-08-21,2015,152,Large,927
+automattic,Automattic,13,161,8.07,2015-12-21,2015,148,Large,1049
+newrelic,New Relic,30,151,19.87,2013-10-23,2013,121,Large,260
+etsy,Etsy,19,149,12.75,2013-10-23,2013,130,Large,260
+guidewirefostercity,Guidewire Software,21,122,17.21,2013-10-31,2013,101,Large,268
+lookout,Lookout,9,112,8.04,2015-06-25,2015,103,Large,870
+quantcast,Quantcast,15,112,13.39,2013-10-23,2013,97,Large,260
+gilt,Gilt,11,111,9.91,2014-05-07,2014,100,Large,456
+nearsoft,"Nearsoft, Inc.",3,107,2.8,2015-08-10,2015,104,Large,916
+hubspot,HubSpot,13,105,12.38,2015-07-15,2015,92,Large,890
+github,GitHub,14,104,13.46,2014-05-05,2014,90,Large,454
+redfin,Redfin,23,91,25.27,2016-02-02,2016,68,Medium,1092
+foursquare,foursquare,6,85,7.06,2013-11-13,2013,79,Medium,281
+wikimedia,Wikimedia Foundation,9,82,10.98,2014-08-21,2014,73,Medium,562
+stripe,Stripe,9,81,11.11,2015-04-22,2015,72,Medium,806
+cityaoflaita,City of Los Angeles Information Technology Agency,33,78,42.31,2015-07-09,2015,45,Medium,884
+rhapsody,Rhapsody,14,76,18.42,2013-10-24,2013,62,Medium,261
+eventbrite,Eventbrite,14,74,18.92,2015-06-21,2015,60,Medium,866
+practicefusion,Practice Fusion,12,72,16.67,2013-12-02,2013,60,Medium,300
+slack,Slack,13,71,18.31,2015-06-16,2015,58,Medium,861
+tenup,10up,8,67,11.94,2015-01-29,2015,59,Medium,723
+intercom,Intercom,4,67,5.97,2016-03-15,2016,63,Medium,1134
+motleyfool,The Motley Fool,10,64,15.62,2014-11-05,2014,54,Medium,638
+delphix,Delphix,3,64,4.69,2015-02-26,2015,61,Medium,751
+pdxeps,"PDX, Inc.",13,63,20.63,2015-04-24,2015,50,Medium,808
+flipboard,Flipboard,6,60,10.0,2013-10-23,2013,54,Medium,260
+salesforceiq,SalesforceIQ,3,57,5.26,2015-10-28,2015,54,Medium,995
+rdio,Rdio,9,56,16.07,2013-10-23,2013,47,Medium,260
+ngpvan,NGP VAN,15,56,26.79,2015-03-25,2015,41,Medium,778
+capsher,Capsher Technology,4,55,7.27,2013-11-27,2013,51,Medium,295
+elemental,Elemental Technologies,6,55,10.91,2013-11-08,2013,49,Medium,276
+ifwe,if(we),8,53,15.09,2015-04-29,2015,45,Medium,813
+hearsaysocial,Hearsay Social,10,52,19.23,2015-10-05,2015,42,Medium,972
+surveymonkey,SurveyMonkey,9,52,17.31,2014-01-15,2014,43,Medium,344
+changeorg,"Change.org, Inc.",15,52,28.85,2015-10-04,2015,37,Medium,971
+polyvore,Polyvore,13,50,26.0,2014-11-03,2014,37,Medium,636
+vungle,Vungle,3,50,6.0,2016-02-17,2016,47,Medium,1107
+ayasdi,AYASDI,16,49,32.65,2015-06-05,2015,33,Medium,850
+adroll,AdRoll,6,48,12.5,2015-03-07,2015,42,Medium,760
+mapbox,Mapbox,10,48,20.83,2015-04-23,2015,38,Medium,807
+popsugar,POPSUGAR,8,46,17.39,2014-04-15,2014,38,Medium,434
+dramafever,DramaFever,5,46,10.87,2015-10-15,2015,41,Medium,982
+socrata,Socrata,12,46,26.09,2015-12-18,2015,34,Medium,1046
+thoughtbot,thoughtbot,5,45,11.11,2013-10-26,2013,40,Medium,263
+perforce,Perforce,6,45,13.33,2013-11-26,2013,39,Medium,294
+edmodo,Edmodo,1,45,2.22,2013-11-12,2013,44,Medium,280
+zendesk,Zendesk,8,45,17.78,2013-10-24,2013,37,Medium,261
+flickr,Yahoo,4,42,9.52,2013-10-28,2013,38,Medium,265
+hootsuite,HootSuite,6,41,14.63,2013-10-22,2013,35,Medium,259
+ellation,Ellation (fka Crunchyroll),2,40,5.0,2015-12-03,2015,38,Medium,1031
+stackexchange,Stack Exchange,3,40,7.5,2015-04-07,2015,37,Medium,791
+outpace,Outpace Systems,4,40,10.0,2014-09-26,2014,36,Medium,598
+vsco,VSCO,7,40,17.5,2015-11-17,2015,33,Medium,1015
+khanacademy,Khan Academy,10,39,25.64,2014-09-03,2014,29,Medium,575
+intentmedia,Intent Media,8,39,20.51,2014-10-20,2014,31,Medium,622
+uswitch,"uSwitch, London",1,38,2.63,2014-05-17,2014,37,Medium,466
+medium,Medium,10,36,27.78,2015-02-27,2015,26,Medium,752
+indiegogo,Indiegogo,7,36,19.44,2015-07-20,2015,29,Medium,895
+simplymeasured,Simply Measured,6,35,17.14,2014-04-14,2014,29,Medium,433
+quora,Quora,4,35,11.43,2013-10-31,2013,31,Medium,268
+theladders,TheLadders,6,35,17.14,2013-10-25,2013,29,Medium,262
+energysavvy,EnergySavvy,7,35,20.0,2015-05-08,2015,28,Medium,822
+manilla,"Manilla, LLC",10,32,31.25,2013-11-27,2013,22,Medium,295
+venmo,Venmo,5,32,15.62,2013-10-23,2013,27,Medium,260
+renttherunway,Rent the Runway,7,32,21.88,2013-10-13,2013,25,Medium,250
+shoplocal,Shoplocal,5,31,16.13,2014-03-06,2014,26,Medium,394
+refinery29,Refinery29,9,31,29.03,2015-10-23,2015,22,Medium,990
+minted,Minted,4,31,12.9,2014-10-17,2014,27,Medium,619
+tapad,Tapad,1,31,3.23,2014-08-04,2014,30,Medium,545
+activision,Activision,1,30,3.33,2013-10-25,2013,29,Medium,262
+pagerduty,PagerDuty,1,29,3.45,2014-09-25,2014,28,Medium,597
+enstoainc,"Enstoa, Inc.",11,29,37.93,2015-08-13,2015,18,Medium,919
+bibliocommons,Bibliocommons,6,29,20.69,2014-07-30,2014,23,Medium,540
+inkling,Inkling,2,29,6.9,2015-03-16,2015,27,Medium,769
+addepar,Addepar,1,29,3.45,2014-04-21,2014,28,Medium,440
+nextdoor,Nextdoor,0,29,0.0,2013-11-20,2013,29,Medium,288
+moovweb,Moovweb,7,29,24.14,2014-04-15,2014,22,Medium,434
+birchbox,Birchbox,2,28,7.14,2016-02-06,2016,26,Medium,1096
+paperlesspost,Paperless Post,4,28,14.29,2013-12-03,2013,24,Medium,301
+plangrid,PlanGrid,7,26,26.92,2015-01-07,2015,19,Medium,701
+fundbox,Fundbox,5,26,19.23,2016-01-03,2016,21,Medium,1062
+cognitect,Cognitect,2,25,8.0,2014-03-24,2014,23,Medium,412
+causes,Causes.com,2,25,8.0,2013-11-07,2013,23,Medium,275
+monetate,Monetate,11,25,44.0,2015-04-22,2015,14,Medium,806
+learnist,Learnist,1,25,4.0,2013-10-23,2013,24,Medium,260
+freshbooks,FreshBooks.com,5,25,20.0,2013-11-26,2013,20,Medium,294
+clever,Clever,4,25,16.0,2015-05-03,2015,21,Medium,817
+goodreads,Goodreads,5,25,20.0,2013-11-12,2013,20,Medium,280
+coinbase,Coinbase,1,24,4.17,2015-10-14,2015,23,Medium,981
+shopatron,Shopatron,3,24,12.5,2014-07-28,2014,21,Medium,538
+hipmunk,Hipmunk,3,24,12.5,2014-08-12,2014,21,Medium,553
+coursera,Coursera,2,24,8.33,2013-10-22,2013,22,Medium,259
+orbistechnologies,Orbis Technologies,4,24,16.67,2013-10-24,2013,20,Medium,261
+disqus,Disqus,3,23,13.04,2015-09-23,2015,20,Medium,960
+wibidata,WibiData,6,23,26.09,2014-12-04,2014,17,Medium,667
+udacity,Udacity,3,23,13.04,2015-11-26,2015,20,Medium,1024
+waveapps,Wave Apps,5,23,21.74,2014-02-24,2014,18,Medium,384
+incognito,Incognito Software,4,23,17.39,2015-06-01,2015,19,Medium,846
+kiva,Kiva,3,23,13.04,2014-05-14,2014,20,Medium,463
+mindjet,Mindjet,8,22,36.36,2014-09-20,2014,14,Medium,592
+lanetix,Lanetix,4,22,18.18,2015-11-04,2015,18,Medium,1002
+omniti,OmniTI,5,22,22.73,2013-10-25,2013,17,Medium,262
+guidebook,Guidebook,0,22,0.0,2014-10-17,2014,22,Medium,619
+shyp,Shyp,3,22,13.64,2016-01-24,2016,19,Medium,1083
+narrativescience,Narrative Science,3,21,14.29,2014-11-17,2014,18,Medium,650
+7digital,7digital,1,21,4.76,2013-11-13,2013,20,Medium,281
+kanjoya,Kanjoya,4,21,19.05,2013-10-25,2013,17,Medium,262
+nytnp,The New York Times,3,21,14.29,2014-07-25,2014,18,Medium,535
+sunrun,Sunrun,6,21,28.57,2013-11-07,2013,15,Medium,275
+asana,Asana,3,21,14.29,2013-10-23,2013,18,Medium,260
+Basecamp,Basecamp,1,20,5.0,2014-10-27,2014,19,Small,629
+bitly,Bitly,4,20,20.0,2015-11-11,2015,16,Small,1009
+liferay,Liferay,2,20,10.0,2016-01-15,2016,18,Small,1074
+fogcreek,Fog Creek Software,0,20,0.0,2014-03-14,2014,20,Small,402
+sailthru,Sailthru,5,20,25.0,2014-04-14,2014,15,Small,433
+howaboutwe,HowAboutWe,4,20,20.0,2013-10-24,2013,16,Small,261
+treehouse,Treehouse,2,19,10.53,2014-04-14,2014,17,Small,433
+shopkick,shopkick,2,19,10.53,2013-10-24,2013,17,Small,261
+wepay,WePay,4,19,21.05,2014-05-14,2014,15,Small,463
+birst,Birst,1,19,5.26,2014-09-14,2014,18,Small,586
+reverb,Reverb,2,18,11.11,2013-11-07,2013,16,Small,275
+codeschool,Code School,4,18,22.22,2014-07-30,2014,14,Small,540
+onemedical,One Medical,5,17,29.41,2015-05-14,2015,12,Small,828
+newbamboo,"New Bamboo, London",2,16,12.5,2014-08-13,2014,14,Small,554
+spoonflower,Spoonflower,10,16,62.5,2016-02-25,2016,6,Small,1115
+sosh,Sosh,2,16,12.5,2015-01-27,2015,14,Small,721
+versal,Versal,3,16,18.75,2013-10-20,2013,13,Small,257
+yummly,Yummly,4,16,25.0,2014-08-15,2014,12,Small,556
+thredup,thredUP,5,15,33.33,2013-10-23,2013,10,Small,260
+selerity,Selerity,2,15,13.33,2013-12-10,2013,13,Small,308
+blendlabs,Blend Labs,5,15,33.33,2015-07-22,2015,10,Small,897
+wanelo,Wanelo,3,15,20.0,2013-11-12,2013,12,Small,280
+harvest,Harvest,0,15,0.0,2013-12-12,2013,15,Small,310
+parse,Facebook,2,15,13.33,2013-10-23,2013,13,Small,260
+floored,Floored,6,15,40.0,2014-04-16,2014,9,Small,435
+apartmentlist,Apartment List,1,15,6.67,2015-09-14,2015,14,Small,951
+highfive,Highfive,3,14,21.43,2013-10-23,2013,11,Small,260
+blacklocus,BlackLocus,6,14,42.86,2015-06-29,2015,8,Small,874
+moontoast,Moontoast,0,14,0.0,2013-04-24,2013,14,Small,78
+collectiveidea,Collective IDea,0,14,0.0,2014-04-02,2014,14,Small,421
+reddit,Reddit,2,14,14.29,2013-10-12,2013,12,Small,249
+quip,Quip,4,14,28.57,2015-01-07,2015,10,Small,701
+stackmob,StackMob,0,14,0.0,2013-10-24,2013,14,Small,261
+wealthfront,Wealthfront,4,13,30.77,2013-10-23,2013,9,Small,260
+noom,Noom,3,13,23.08,2015-06-17,2015,10,Small,862
+snapchat,Snapchat,2,13,15.38,2013-10-24,2013,11,Small,261
+npm,npm,6,13,46.15,2015-07-15,2015,7,Small,890
+optimizely,Optimizely,1,12,8.33,2013-10-22,2013,11,Small,259
+imgur,Imgur,1,12,8.33,2014-10-30,2014,11,Small,632
+radius,Radius.com,3,12,25.0,2013-11-01,2013,9,Small,269
+thinkbrownstone,Think Brownstone,5,12,41.67,2014-06-18,2014,7,Small,498
+gamechanger,GameChanger.io,1,12,8.33,2013-11-01,2013,11,Small,269
+mylikes,MyLikes,2,12,16.67,2013-11-12,2013,10,Small,280
+centerforopenscience,Center for Open Science,3,11,27.27,2014-08-12,2014,8,Small,553
+noodle,Noodle,4,11,36.36,2014-07-08,2014,7,Small,518
+billupsww,Billups,3,11,27.27,2015-08-06,2015,8,Small,912
+inductiveautomation,Inductive Automation,1,10,10.0,2013-11-26,2013,9,Small,294
+aerofs,AeroFS,1,10,10.0,2014-06-27,2014,9,Small,507
+noise,noise,2,10,20.0,2013-10-23,2013,8,Small,260
+scilearn,Scientific Learning,5,10,50.0,2014-02-28,2014,5,Small,388
+creativelive,creativeLIVE,0,10,0.0,2013-11-11,2013,10,Small,279
+pearson,Pearson College,4,9,44.44,2013-10-23,2013,5,Small,260
+lola,Lola,1,9,11.11,2016-02-01,2016,8,Small,1091
+keenio,Keen IO,1,9,11.11,2014-04-25,2014,8,Small,444
+topix,Topix,0,9,0.0,2013-10-22,2013,9,Small,259
+meteor,Meteor,3,9,33.33,2013-11-07,2013,6,Small,275
+slate,The Slate Group,3,9,33.33,2015-12-04,2015,6,Small,1032
+codecademy,Codecademy,1,9,11.11,2014-04-23,2014,8,Small,442
+charitywater,charity water,1,8,12.5,2015-05-13,2015,7,Small,827
+geckoboard,Geckoboard,2,8,25.0,2015-05-05,2015,6,Small,819
+massdrop,Massdrop,0,8,0.0,2015-05-06,2015,8,Small,820
+NIRD,Northwest Independent Ruby Development,7,8,87.5,2014-09-05,2014,1,Small,577
+squareroot,square-root.com,2,8,25.0,2013-10-24,2013,6,Small,261
+ticketevolution,Ticket Evolution,2,8,25.0,2015-02-10,2015,6,Small,735
+ivycorp,Ivycorp,2,7,28.57,2013-11-11,2013,5,Small,279
+getable,Getable,2,7,28.57,2015-10-13,2015,5,Small,980
+doxo,doxo,0,7,0.0,2013-11-20,2013,7,Small,288
+datascopeanalytics,Datascope Analytics,2,7,28.57,2013-10-24,2013,5,Small,261
+hypothesis,Hypothes.is,2,7,28.57,2015-12-21,2015,5,Small,1049
+patreon,Patreon,1,7,14.29,2014-11-26,2014,6,Small,659
+hackerschool,Hacker School,2,7,28.57,2013-10-24,2013,5,Small,261
+cirrusmio,CirrusMio,1,7,14.29,2014-04-15,2014,6,Small,434
+makeshift,"Makeshift, London",2,7,28.57,2014-05-16,2014,5,Small,465
+flatironhealth,Flatiron Health,1,7,14.29,2013-10-21,2013,6,Small,258
+checkout51,Checkout 51,0,6,0.0,2013-11-08,2013,6,Small,276
+firstwatchsolutions,FirstWatch Solutions,0,6,0.0,2015-07-23,2015,6,Small,898
+tricae,Tricae,1,6,16.67,2013-11-28,2013,5,Small,296
+bendyworks,Bendyworks,0,6,0.0,2016-01-27,2016,6,Small,1086
+skillshare,Skillshare,1,6,16.67,2013-10-28,2013,5,Small,265
+balderdash,Balderdash,2,6,33.33,2014-06-13,2014,4,Small,493
+relay,Relay Graduate School,1,6,16.67,2015-03-03,2015,5,Small,756
+pact,Pact,1,6,16.67,2014-01-17,2014,5,Small,346
+barkbox,BarkBox,2,6,33.33,2014-05-29,2014,4,Small,478
+cohealo,Cohealo,1,6,16.67,2015-04-10,2015,5,Small,794
+playforge,The Playforge,0,6,0.0,2013-10-23,2013,6,Small,260
+tindie,Tindie,1,5,20.0,2013-11-07,2013,4,Small,275
+lot18,Lot18,1,5,20.0,2013-02-05,2013,4,Small,0
+rolledalloys,Rolled Alloys,1,5,20.0,2013-12-02,2013,4,Small,300
+findery,Findery,2,5,40.0,2014-07-16,2014,3,Small,526
+gonovoed,NovoEd,1,5,20.0,2014-04-05,2014,4,Small,424
+adzerk,Adzerk,1,5,20.0,2013-10-23,2013,4,Small,260
+circa,Circa,0,5,0.0,2014-02-19,2014,5,Small,379
+kaon,"Kaon Interactive, Inc.",0,5,0.0,2013-12-02,2013,5,Small,300
+appssavvy,appssavvy,0,5,0.0,2013-11-27,2013,5,Small,295
+internmatch,Intern Match,1,4,25.0,2013-11-13,2013,3,Small,281
+lookflow,Yahoo!,1,4,25.0,2013-10-25,2013,3,Small,262
+themuse,The Muse,3,4,75.0,2013-10-24,2013,1,Small,261
+walkerandcobrands,Walker & Company Brands,2,4,50.0,2014-07-25,2014,2,Small,535
+sifteo,Sifteo,0,4,0.0,2013-10-24,2013,4,Small,261
+chain,Chain.com,1,4,25.0,2015-08-28,2015,3,Small,934
+elationemr,elationemr,1,4,25.0,2013-10-24,2013,3,Small,261
+panoply,The Slate Group,1,4,25.0,2015-12-04,2015,3,Small,1032
+codeforamerica,Code for America,2,4,50.0,2014-02-13,2014,2,Small,373
+renewablefunding,Renewable Funding,1,4,25.0,2013-10-24,2013,3,Small,261
+qstream,Qstream,0,3,0.0,2013-10-24,2013,3,Small,261
+wealthsimple,Wealthsimple,1,3,33.33,2015-02-12,2015,2,Small,737
+policystat,PolicyStat,0,3,0.0,2013-11-26,2013,3,Small,294
+hackbrightacademy,Hackbright Academy,2,3,66.67,2013-10-24,2013,1,Small,261
+glassbreakers,Glassbreakers,2,3,66.67,2015-07-09,2015,1,Small,884
+codurance,"Codurance, London",0,3,0.0,2014-05-17,2014,3,Small,466
+goldbely,Goldbely,0,3,0.0,2013-10-24,2013,3,Small,261
+circl,"circl, Brooklyn",0,3,0.0,2014-05-29,2014,3,Small,478
+wizarddevelopment,Wizard Development,2,3,66.67,2014-04-14,2014,1,Small,433
+buildingrobotics,Building Robotics,1,3,33.33,2014-04-14,2014,2,Small,433
+attn,ATTN,1,3,33.33,2015-03-14,2015,2,Small,767
+mapistry,Mapistry,1,3,33.33,2014-05-16,2014,2,Small,465
+yellowsmith,Yellowsmith,2,3,66.67,2013-10-24,2013,1,Small,261
+thelastpickle,The Last Pickle,1,3,33.33,2014-05-16,2014,2,Small,465
+webkite,Webkite,0,3,0.0,2014-11-14,2014,3,Small,647
+watsi,Watsi,0,2,0.0,2013-10-22,2013,2,Small,259
+admittedly,Admittedly,1,2,50.0,2015-01-05,2015,1,Small,699
+spitfire,Spitfire Athlete,2,2,100.0,2013-10-25,2013,0,Small,262
+tetherpad,Tetherpad,1,2,50.0,2014-04-15,2014,1,Small,434
+zerocater,Zerocater,0,2,0.0,2013-10-24,2013,2,Small,261
+1uptalent,1up talent,0,2,0.0,2014-05-14,2014,2,Small,463
+launchbit,LaunchBit,1,2,50.0,2013-11-04,2013,1,Small,272
+kabinet,Kabinet,2,2,100.0,2013-10-24,2013,0,Small,261
+hipaariskmanagement,HIPAA Risk Management,2,2,100.0,2015-07-27,2015,0,Small,902
+levo,Levo League,0,2,0.0,2014-02-01,2014,2,Small,361
+togandporter,Tog+Porter,1,1,100.0,2013-10-31,2013,0,Small,268
