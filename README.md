@@ -9,9 +9,7 @@ A Data Visualization project
 </div>
 
 # 📖 Overview
-The Women in Tech Data Analysis Project is a technical study conducted by Gigawin, Dave Shanna Marie E. for the course Data Visualization Activity 1.
-
-Unlike standard reports that simply list statistics, this project utilizes the Data-Information-Knowledge-Wisdom (DIKW) framework to move from raw data points to high-level organizational wisdom. By processing global engineering datasets, we identify critical trends in gender representation, specifically focusing on how company size affects the ability to maintain a diverse workforce.
+Unlike standard reports that simply list statistics, this project utilizes the Data-Information-Knowledge-Wisdom (DIKW) framework to move from raw data points to high-level organizational wisdom.
 
 📊 1. DATA (The Foundation)
 
