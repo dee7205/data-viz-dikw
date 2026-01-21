@@ -2,7 +2,7 @@
 
 # 👩‍💻 Women in Tech: A DIKW Data Analysis Project
 
-A Business Intelligence (BI) project designed to transform raw employment data into actionable diversity strategies.
+A Data Visualization project
 
 <br />
 
