@@ -1,60 +1,96 @@
-# Women in Tech: A DIKW Data Analysis Project
-This repository contains a comprehensive analysis of gender representation within the technology industry. Using the Data-Information-Knowledge-Wisdom (DIKW) framework, this project transforms raw employment statistics into actionable strategic insights.
+<div align="center">
 
-# 🚀 Project Overview
-The goal of this project is to analyze the relationship between company size and gender diversity in engineering roles. By processing a dataset of over 31,000 engineers, we identify key patterns in how diversity scales (or fails to scale) within the tech ecosystem.
+👩‍💻 Women in Tech: A DIKW Data Analysis Project
+A Business Intelligence (BI) project designed to transform raw employment data into actionable diversity strategies.
 
-# 📊 The DIKW Workflow
-1. Data (The Foundation)
-The project began with the Women in Tech Dataset from Kaggle, consisting of 251 raw CSV rows.
+<br />
 
+</div>
 
-Raw State: Initially unorganized with missing "N/A" values and inconsistent date formats.
+# 📖 Overview
+The Women in Tech Data Analysis Project is a technical study conducted by Gigawin, Dave Shanna Marie E. for the course Data Visualization Activity 1.
 
-Processing: I developed clean_data.py to sanitize text, handle nulls, and engineer new features like company_size_group.
+Unlike standard reports that simply list statistics, this project utilizes the Data-Information-Knowledge-Wisdom (DIKW) framework to move from raw data points to high-level organizational wisdom. By processing global engineering datasets, we identify critical trends in gender representation, specifically focusing on how company size affects the ability to maintain a diverse workforce.
 
-2. Information (Organized Context)
-By cleaning the data, we extracted structural context answering the "Who" and "How Many":
+📊 1. DATA (The Foundation)
 
-
-Total Population: 31,934 Engineers.
+Dataset Source: Women in Tech Dataset (Kaggle).
 
 
-Gender Split: 81.3% Male vs. 18.7% Female.
+Raw Content: 251 raw CSV rows featuring company names, update timestamps, and unorganized counts of total and female engineers.
 
 
-Industry Leaders: Identified Wells Fargo and ThoughtWorks as the highest-volume employers.
+Initial State: Unrefined records with missing "N/A" values and inconsistent date formats that required systematic cleaning.
 
-# 3. Knowledge (Patterns & Trends)
-Analyzing the information revealed significant correlations between organizational structure and diversity:
+🗂️ 2. INFORMATION (Organized Context)
 
-
-Inverse Relationship: As shown in Figure 1, smaller companies maintain significantly higher female representation (~24%) compared to large firms (~13%).
+Total Sample: A structured population of 31,934 engineers.
 
 
-Scaling Challenges: Data suggests that maintaining gender balance becomes increasingly difficult as teams scale rapidly.
+Gender Breakdown: 25,962 (81.3%) male engineers and 5,972 (18.7%) female engineers.
 
 
-Sector Performance: Public-sector organizations often outperform private tech giants in female-talent density.
+Market Leaders: Identification of volume-leading firms like Wells Fargo, employing over 5,000 engineers.
 
-# 4. Wisdom (Strategic Action)
-The final layer provides actionable recommendations based on the discovered patterns:
+🧠 3. KNOWLEDGE (Patterns & Trends)
 
-
-For Job Seekers: Prioritize small-to-mid firms for better representation ratios.
+The Inverse Size Rule: Small companies lead with ~24% average female representation, while large firms trail at 13%.
 
 
-For Recruiters: Study the "Small Company Agility" model to prevent diversity drift during rapid scaling.
+Scaling Agility: Evidence suggests smaller, younger firms are more agile in diverse hiring, whereas maintaining balance becomes harder as teams scale rapidly.
 
-# 🛠️ Tech Stack & Structure
-Language: Python 3.10+
 
-Libraries: pandas, matplotlib, seaborn
+Alternative Success: Public-sector organizations like the City of Los Angeles IT Agency outperform private-sector giants in female talent density.
 
-Structure:
+💡 4. WISDOM (Strategic Action)
+For Job Seekers & Professionals:
 
-dataset/: Contains raw and cleaned CSV files.
 
-visualizations/: Generated PNG charts for the DIKW layers.
+Prioritize Small-to-Mid Firms: Small firms offer nearly double the female representation percentage of large corporations.
 
-src/: Python scripts for automated ETL and visualization.
+
+Look Beyond Volume: Absolute headcount is not a proxy for diversity; evaluate internal ratios before applying.
+
+For Industry Leaders & Recruiters:
+
+
+Study Small-Scale Agility: Identify and replicate the recruitment models used by high-performing small firms.
+
+
+Formalize Diversity Scaling: Implement specific protocols to prevent diversity "drift" during periods of rapid growth.
+
+# 🛠️ Tech Stack
+Programming Language: Python 3.x
+
+Data Manipulation: Pandas
+
+Visualization Libraries: Matplotlib, Seaborn
+
+Development Environment: VS Code / Jupyter
+
+⚙️ Installation & Setup
+1. Clone the Repository
+```
+git clone https://github.com/your-username/women-in-tech-dikw.git
+cd women-in-tech-dikw
+```
+2. Setup Data Files
+Ensure the raw dataset is placed in the ```dataset/``` folder as women_in_software_engineering_stats.csv.
+
+3. Run Cleaning & Visualization
+```
+python clean_data.py
+python visualize_data.py
+```
+# 📂 Project Structure
+
+/dataset
+  ├── women_in_software_engineering_stats.csv  <-- Raw Data
+  └── cleaned_women_stats.csv                  <-- Cleaned Output
+/visualizations
+  ├── rep_by_company_size.png                  <-- Figure 1 [cite: 58]
+  ├── gender_gap_aggregate.png                 <-- Figure 2 [cite: 64]
+  ├── top_10_num_eng.png                       <-- Figure 3 [cite: 82]
+  └── top_10_num_female_eng.png                <-- Figure 4 [cite: 101]
+clean_data.py                                  <-- ETL Logic
+visualize_data.py                              <-- Chart Logic
