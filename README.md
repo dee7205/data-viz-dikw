@@ -1,6 +1,7 @@
 <div align="center">
 
-👩‍💻 Women in Tech: A DIKW Data Analysis Project
+# 👩‍💻 Women in Tech: A DIKW Data Analysis Project
+
 A Business Intelligence (BI) project designed to transform raw employment data into actionable diversity strategies.
 
 <br />
